@@ -1,0 +1,33 @@
+_repo: Voyage-en-Espagne-d-un-Ambassadeur-Marocain-1690-1691_58063
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sauvaire, Henry
+    gutenberg_agent_id: '49753'
+    url: http://www.gutenberg.org/2009/agents/49753
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Voyages et pays
+- FR Nouveautés
+gutenberg_issued: '2018-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58063'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage en Espagne d'un Ambassadeur Marocain (1690-1691)
+url: http://www.gutenberg.org/ebooks/58063
